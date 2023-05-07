@@ -8,12 +8,9 @@ This project is a HR analytics dashboard built using SQL, Microsoft Power BI to 
 The dashboard provides a real-time view of key HR metrics, such as employee turnover, headcount, and diversity, and allows users to drill down into the data to gain deeper insights.
 
 
-![](images/Sales_Overview.png)
-![](images/Product_Details.png)
-![](images/Customer_Details.png)
-
-
-
+![](Images/HR_Analytics_Dashboard_Home.png)
+![](Images/HR_Analytics_Dashboard_Details.png)
+![](Images/HR_Analytics_Dashboard_Action.png)
 
 
 ## Files
@@ -25,16 +22,11 @@ As you can find in this repository 4 csv files which include :
 
 
 ### Reports
-- [Power BI HR Dashboard](https://app.powerbi.com/reportEmbed?reportId=b09e54b5-2e09-447f-8e25-79a4adcf66cc&autoAuth=true&ctid=33936b55-1762-451d-8c89-45d3f22ac300&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
+- [Power BI HR Dashboard](https://app.powerbi.com/groups/me/reports/53526b09-3a98-4f38-9236-ec4738f830cd?ctid=33936b55-1762-451d-8c89-45d3f22ac300&pbi_source=linkShare)
 ### Used Tools
 - Microsoft SQL Server
 - Microsoft Power BI
 - Microsoft Office programms (Excel, Word, Power Point)
-
-### Sources
-- [AdventureWorks sample databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) 
-![](images/Database.png)
-
 
 
 #### Find me in social media
