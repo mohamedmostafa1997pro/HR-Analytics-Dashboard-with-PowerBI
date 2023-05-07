@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Full project using n.
+
 This project is a HR analytics dashboard built using SQL, Microsoft Power BI to Generate a Dynamic Visualizatio , designed to help HR professionals and managers make data-driven decisions. 
 
 The dashboard provides a real-time view of key HR metrics, such as employee turnover, headcount, and diversity, and allows users to drill down into the data to gain deeper insights.
