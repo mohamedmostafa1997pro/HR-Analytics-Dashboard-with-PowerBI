@@ -22,7 +22,7 @@ As you can find in this repository 4 csv files which include :
 
 
 ### Reports
-- [Power BI HR Dashboard](https://app.powerbi.com/groups/me/reports/53526b09-3a98-4f38-9236-ec4738f830cd?ctid=33936b55-1762-451d-8c89-45d3f22ac300&pbi_source=linkShare)
+- [ HR Data Analytics Dashboard](https://app.powerbi.com/groups/me/reports/53526b09-3a98-4f38-9236-ec4738f830cd?ctid=33936b55-1762-451d-8c89-45d3f22ac300&pbi_source=linkShare)
 ### Used Tools
 - Microsoft SQL Server
 - Microsoft Power BI
